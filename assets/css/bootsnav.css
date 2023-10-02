@@ -11,7 +11,7 @@ nav.navbar.bootsnav.no-border{border-bottom:none;}
 nav.navbar.bootsnav.navbar-transparent.no-border .attr-nav{border-left:none;}
 nav.navbar.bootsnav.dark{background-color:#212121;border-bottom:0;}
 nav.navbar.bootsnav ul.nav > li > a{color:#212121;background-color:transparent;outline:none;margin-bottom:-2px;font-family:'Montserrat', sans-serif;font-size:14px;font-weight:500;letter-spacing:1px;}
-nav.navbar.bootsnav ul.nav > li > a.active{background-color:#fff;color:#fff;}
+nav.navbar.bootsnav ul.nav > li > a.active{background-color:#fff;color:black;}
 nav.navbar.bootsnav.dark ul.nav > li > a, nav.navbar.bootsnav.dark .attr-nav > ul > li > a{color:#fff!important;}
 nav.navbar.bootsnav ul.nav li.megamenu-fw > a:hover,nav.navbar.bootsnav ul.nav li.megamenu-fw > a:focus,nav.navbar.bootsnav ul.nav li.active > a:hover,nav.navbar.bootsnav ul.nav li.active > a:focus,nav.navbar.bootsnav ul.nav li.active > a{background-color:transparent;color:#fff;}
 nav.navbar.bootsnav .navbar-toggle{background-color:transparent;border:none;padding:0;font-size:24px;position:relative;top:5px;color:#212121;}
@@ -144,7 +144,7 @@ nav.navbar.bootsnav.navbar-transparent .attr-nav{height:80px;-webkit-transition:
  nav.navbar.bootsnav.navbar-transparent.white .attr-nav{/*border-left:solid 1px #bbb;*/
  }
  nav.navbar.navbar-inverse.bootsnav.navbar-transparent.dark .attr-nav, nav.navbar.bootsnav.navbar-transparent.dark .attr-nav{border-left:solid 1px rgba(158, 158, 158, 0.2);}
- nav.navbar.bootsnav.no-background.white .attr-nav > ul > li > a, nav.navbar.bootsnav.navbar-transparent.white .attr-nav > ul > li > a, nav.navbar.bootsnav.navbar-transparent.white ul.nav > li > a, nav.navbar.bootsnav.no-background.white ul.nav > li > a,nav.navbar.bootsnav.no-background.dark .attr-nav > ul > li > a, nav.navbar.bootsnav.navbar-transparent.dark .attr-nav > ul > li > a, nav.navbar.bootsnav.navbar-transparent.dark ul.nav > li > a, nav.navbar.bootsnav.no-background.dark ul.nav > li > a{color:#fff;padding-top:29px;padding-bottom:29px;}
+ nav.navbar.bootsnav.no-background.white .attr-nav > ul > li > a, nav.navbar.bootsnav.navbar-transparent.white .attr-nav > ul > li > a, nav.navbar.bootsnav.navbar-transparent.white ul.nav > li > a, nav.navbar.bootsnav.no-background.white ul.nav > li > a,nav.navbar.bootsnav.no-background.dark .attr-nav > ul > li > a, nav.navbar.bootsnav.navbar-transparent.dark .attr-nav > ul > li > a, nav.navbar.bootsnav.navbar-transparent.dark ul.nav > li > a, nav.navbar.bootsnav.no-background.dark ul.nav > li > a{color:black;padding-top:29px;padding-bottom:29px;}
  nav.navbar.bootsnav.navbar-transparent.dark .attr-nav > ul > li > a, nav.navbar.bootsnav.navbar-transparent.dark ul.nav > li > a{color:#212121!important;}
  nav.navbar.bootsnav.navbar-fixed.navbar-transparent .logo-scrolled, nav.navbar.bootsnav.navbar-fixed.no-background .logo-scrolled{opacity:0;height:0;}
  nav.navbar.bootsnav.navbar-fixed.navbar-transparent .logo-display, nav.navbar.bootsnav.navbar-fixed.no-background .logo-display{opacity:1;height:auto;}

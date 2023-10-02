@@ -297,7 +297,7 @@ section.lg-section{padding-top:150px;padding-bottom:150px;}
 
 /* Navigations */
 
-.navbar-nav {float: right;margin: 0;padding: 0px 10px;}
+.navbar-nav {float: right;margin: 0;padding: 0px 10px; text-transform: uppercase; color: black}
 nav.navbar.bootsnav.navbar-transparent .logo {position: relative;z-index: 110;display: table;height: 80px;-webkit-transition: all .3s ease;transition: all .3s ease;}
 nav.navbar.bootsnav.navbar-transparent.brand-center .logo, .brand-center .logo {text-align: center;margin: 0 auto;}
 nav.navbar.bootsnav.navbar-transparent.brand-center .navbar-brand {padding: 20px 15px;}
@@ -310,12 +310,12 @@ nav .logo > a {display: table-cell;vertical-align: middle;}
 .menu-logo, .vcard-address{float: left;}
 nav.bootsnav.navbar-sidebar ul.nav {margin: 0 0 30px 0;}
 nav.navbar.bootsnav.navbar-transparent.white ul.nav > li > a.nav-btn-default {padding-top: 10px;padding-bottom: 10px;margin-top: 15px;}
-nav.navbar.bootsnav ul.nav > li > a.nav-btn-default {padding: 10px 15px;margin-top: 6.5px;color: #fff;}
+nav.navbar.bootsnav ul.nav > li > a.nav-btn-default {padding: 10px 15px;margin-top: 6.5px;color: black;}
 .navbar-nav>li>.dropdown-menu {margin-top: 2px;}
 .absolute-header {position: absolute;top: 0;left: 0;right: 0;width: 100%;z-index: 99;padding: 10px 0;}
 .menu-logo-outside {max-width: 180px;}
 .menu-btn {position: fixed;right: 8%;z-index: 999;top: 2%;}
-.menu-btn a{background-color: #fff;width: 60px;height: 60px;display: block;text-align: center;line-height: 57px;box-shadow: 5px 5px 15px 0 rgba(31, 31, 31, 0.07);font-size: 26px;}
+.menu-btn a{background-color: black;width: 60px;height: 60px;display: block;text-align: center;line-height: 57px;box-shadow: 5px 5px 15px 0 rgba(31, 31, 31, 0.07);font-size: 26px;}
 .btn-open:before {color: #333;content: "\f130";font-family: "Ionicons";-webkit-transition: all .2s linear 0s;-moz-transition: all .2s linear 0s;-o-transition: all .2s linear 0s;transition-property: all .2s linear 0s;}
 .btn-open:hover:before {color: #F5325C;}
 .btn-close:before {color: #333;content: "\f2d7";font-family: "Ionicons";-webkit-transition: all .2s linear 0s;-moz-transition: all .2s linear 0s;-o-transition: all .2s linear 0s;transition-property: all .2s linear 0s;}
